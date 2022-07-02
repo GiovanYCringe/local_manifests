@@ -1,1 +1,2 @@
-# local_manifests
+These are my local manifests for cedric & deen
+

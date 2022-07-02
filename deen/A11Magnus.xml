@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote name="lineage"
+		fetch="https://github.com/LineageOS"
+		revision="lineage-18.1" />
+
+	<!-- Device repos -->
+	<project name="GiovanYCringe/android_device_motorola_deen" path="device/motorola/deen" remote="github" revision="Magnus-11" />
+
+	<project name="GiovanYCringe/kernel_motorola_deen" path="kernel/motorola/deen" remote="github" />
+	<project name="GiovanYCringe/aicp_vendor_motorola" path="vendor/motorola" remote="github" revision="r-11.1" />
+
+	<!-- Dependencies -->
+	<project name="android_external_bson" path="external/bson" remote="lineage" />
+	<project name="android_hardware_motorola" path="hardware/motorola" remote="lineage" />
+
+	<!-- Devicesettings -->
+	<remove-project name="android_packages_resources_devicesettings" />
+	<project name="android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="lineage" />
+</manifest>
