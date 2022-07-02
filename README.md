@@ -11,7 +11,7 @@ be sure to replace $DEVICE and $MANIFEST_NAME with a device codename and manifes
 
 Example:
 ```
-mkdir .repo/local_manifests && curl https://raw.githubusercontent.com/GiovanYCringe/local_manifests/main/deen/A11Magnus-R.xml > .repo/local_manifests/manifest.xml
+mkdir .repo/local_manifests && curl https://raw.githubusercontent.com/GiovanYCringe/local_manifests/main/deen/A11Magnus.xml > .repo/local_manifests/manifest.xml
 ```
 
 after that do `repo sync --force-sync --no-tags --no-clone-bundle -c`
