@@ -5,7 +5,7 @@
 		revision="lineage-18.1" />
 
 	<!-- Device repos -->
-	<project name="GiovanYCringe/android_device_motorola_deen" path="device/motorola/deen" remote="github" revision="Magnus-11" />
+	<project name="GiovanYCringe/android_device_motorola_deen" path="device/motorola/deen" remote="github" revision="Magnu-R" />
 	<project name="GiovanYCringe/kernel_motorola_deen" path="kernel/motorola/deen" remote="github" />
 	<project name="GiovanYCringe/aicp_vendor_motorola" path="vendor/motorola" remote="github" revision="r-11.1" />
 
