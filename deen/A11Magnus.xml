@@ -6,7 +6,7 @@
 
 	<!-- Device repos -->
 	<project name="GiovanYCringe/android_device_motorola_deen" path="device/motorola/deen" remote="github" revision="Magnu-R" />
-	<project name="GiovanYCringe/kernel_motorola_deen" path="kernel/motorola/deen" remote="github"  revision="Komi-San" />
+	<project name="GiovanYCringe/kernel_motorola_deen" path="kernel/motorola/deen" remote="github" revision="Komi-San" />
 	<project name="GiovanYCringe/vendor_motorola_deen" path="vendor/motorola/deen" remote="github" revision="11" />
 
 	<!-- Dependencies -->
